@@ -25,12 +25,14 @@ Languages:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-⭐️ From [m-tee](https://github.com/M-Tee)
+
 -->
 
 <span>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=m-tee&show_icons=true&hide_border=true&icon_color=5CFF33&count_private=true">
+<img align="" src="https://github-readme-stats.vercel.app/api?username=m-tee&show_icons=true&hide_border=true&icon_color=5CFF33&count_private=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-tee&hide_border=true&hide= html">
 </span>
 
+
+⭐️ From [m-tee](https://github.com/M-Tee)
 
