@@ -9,8 +9,8 @@ I'm Margaret! A developer: mainly frontend, but currently working on backend. I 
 - 🌎 I'd love to Connect with you on  <a href="https://www.linkedin.com/in/margaret-wambui-481042187/">LinkedIn</a> or <a href="https://twitter.com/margy_tomm">Twitter</a>
 
 <span>
-<img align="" src="https://github-readme-stats.vercel.app/api?username=m-tee&show_icons=true&hide_border=true&icon_color=5CFF33&count_private=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-tee&hide_border=true&hide= html">
+<img align="" fill="none" src="https://github-readme-stats.vercel.app/api?username=m-tee&show_icons=true&hide_border=true&icon_color=5CFF33&count_private=true&theme=vision-friendly-dark">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-tee&hide_border=true&hide=html&theme=vision-friendly-dark">
 </span>
 
 
