@@ -2,7 +2,7 @@
 
 Hello👋🏾, thank you for stopping by. 
 
-I'm Margaret! A Designer and Developer.
+I'm Margaret! A Creative Developer.
 
 Check out my
 - 💼 Design work on <a href="https://www.behance.net/margytom">Behance</a> 
